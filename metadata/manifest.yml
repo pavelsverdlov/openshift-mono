@@ -7,7 +7,7 @@ Version: '3.0.7'
 License: "GPL/LGPL"
 Vendor: Xamarin
 Cartridge-Version: 1.0
-Cartridge-Vendor: wshearn
+Cartridge-Vendor: pavelsverdlov
 Categories:
   - service
   - web_framework
